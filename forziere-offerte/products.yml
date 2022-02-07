@@ -1,0 +1,30 @@
+name:
+    css: '#productTitle'
+    type: Text
+
+price_global:
+    css: '.a-text-strike'
+    type: Text
+    
+price_amazon:
+    css: '#priceblock_ourprice'
+    type: Text
+    
+price_deal:
+    css: '#priceblock_dealprice'
+    type: Text
+    
+savings:
+    css: '.priceBlockSavingsString'
+    type: Text
+    
+Rating:
+    css: '.averageStarRating'
+    type: Text
+    
+image:
+    css: '.imgTagWrapper img'
+    type: Attribute
+    attribute: data-a-dynamic-image
+    
+   
